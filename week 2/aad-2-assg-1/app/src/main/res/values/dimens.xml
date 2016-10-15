@@ -1,0 +1,30 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Dimensions used for the input URL list -->
+    <dimen name="url_list_item_padding">2dp</dimen>
+    <dimen name="url_text_view_padding">2dp</dimen>
+
+    <!-- Dimensions used for the image gallery -->
+    <dimen name="image_grid_item_margins">2dp</dimen>
+    <dimen name="image_view_padding">0dp</dimen>
+    <dimen name="image_view_margins">0dp</dimen>
+
+    <!-- Dimensions used for the image view activity -->
+    <dimen name="view_image_activity_vertical_margin">0dp</dimen>
+    <dimen name="view_image_activity_horizontal_margin">0dp</dimen>
+
+    <!-- Dimensions used for the image view pager activity -->
+    <dimen name="paged_activity_vertical_margin">0dp</dimen>
+    <dimen name="paged_activity_horizontal_margin">0dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="z_input_panel">5dp</dimen>
+    <dimen name="z_fab">0dp</dimen>
+
+    <dimen name="cardTextSize">12sp</dimen>
+</resources>

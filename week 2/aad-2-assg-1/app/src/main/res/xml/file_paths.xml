@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Path names used for file provider support for API 24
+    new storage security permissions
+-->
+
+<paths>
+    <!-- Exposed directories in Context.getCacheDir() -->
+    <cache-path
+        name="downloadCache"
+        path="download/"/>
+    <!-- Exposed directories in Context.getFilesDir() -->
+    <files-path
+        name="not_used"
+        path="not_used/"/>
+    <!-- Exposed directories in Environment.getExternalStorageDirectory() -->
+    <external-path
+        name="not_used"
+        path="not_used/"/>
+</paths>
