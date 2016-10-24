@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    These string resources are not currently used in the framework, but are
+    being kept because they will likely be useful for other MOOCs directly download
+    images instead of using the DownloadManger to install the downloaded images
+    automatically "into()" ImageViews.
+-->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <plurals name="single_image_download_message" tools:ignore="UnusedResources">
+        <item quantity="one">The image was downloaded</item>
+        <item quantity="other">The image was not downloaded</item>
+    </plurals>
+    <plurals name="multiple_images_download_message" tools:ignore="UnusedResources">
+        <item quantity="zero">No images were downloaded</item>
+        <item quantity="other">%1$d of %2$d images were downloaded</item>
+    </plurals>
+    <plurals name="items_deleted_message" tools:ignore="UnusedResources">
+        <item quantity="zero">No images were deleted</item>
+        <item quantity="one">%d image deleted</item>
+        <item quantity="other">%d images deleted</item>
+    </plurals>
+</resources>

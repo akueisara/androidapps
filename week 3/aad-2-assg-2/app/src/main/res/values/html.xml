@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="html_about" tools:ignore="UnusedResources">
+        <![CDATA[
+        <h2>Course Name</h2>
+        <h3>Assignment: ?</h3>
+        <h3>Skeleton Version: 1.0</h3>
+        <p>
+            Assignment description and instructions
+        </p>
+        ]]>
+    </string>
+</resources>

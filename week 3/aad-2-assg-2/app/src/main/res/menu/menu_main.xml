@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".assignment.activities.MainActivity">
+    <item
+        android:id="@+id/action_load_defaults"
+        android:orderInCategory="100"
+        android:title="@string/action_load_defaults"
+        app:showAsAction="never" />
+</menu>

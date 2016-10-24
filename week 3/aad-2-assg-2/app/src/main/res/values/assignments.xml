@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Array of assignment names -->
+    <string-array name="assignment_names">
+        <item>Assignment 1</item>
+        <item>Assignment 2</item>
+        <item>Assignment 3</item>
+        <item>Assignment 4</item>
+    </string-array>
+
+    <!-- Error messages -->
+    <string name="action_assignment_invalid" tools:ignore="UnusedResources">The current assignment skeleton does not run assignment %d</string>
+
+    <!-- Assignment html strings for About dialog -->
+    <string-array name="about_assignments">
+        <item>
+            <![CDATA[
+            <h2>Android App Components and Data Persistence</h2>
+            <h3>Assignment: 1</h3>
+            <h3>Skeleton Version: 1.0</h3>
+            <p>
+                This assignment introduces the concept of <b>Intents</b>
+                and shows how they can be used for a <b>one-way</b> exchange
+                information between Android <b>Activities</b>.
+            </p>
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+            <h2>Android App Components and Data Persistence</h2>
+            <h3>Assignment: 2</h3>
+            <h3>Skeleton Version: 1.0</h3>
+            <p>
+                This assignment introduces the concept of using intents for <b>two-way</b>
+                communication between Activities. It builds upon assignment 1 by
+                starting the image <b>download activity for results</b>. The download
+                image activity will have to be modified to return the downloaded image
+                URL in a data intent so that the main activity will be able to display
+                it in an image view widget.
+            </p>
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+            <h2>Android App Components and Data Persistence</h2>
+            <h3>Assignment: 3</h3>
+            <h3>Skeleton Version: 1.0</h3>
+            <p>
+                This assignment introduces the concept of using a <b>broadcast intent</b>
+                for <b>two-way</b> communication between Activities. It builds upon
+                assignment 1 by having the MainActivity register as a <b>local
+                BroadcastReceiver</b>. The MainActivity then starts the DownloadActivity
+                to download an image after which, the DownloadActivity returns this
+                path to the downloaded image by broadcasting a result intent back to
+                the MainActivity. The MainActivity then displays the received image
+                file in an ImageView.
+            </p>
+            ]]>
+        </item>
+
+        <item>
+            <![CDATA[
+            <h2>Android App Components and Data Persistence</h2>
+            <h3>Assignment: 4</h3>
+            <h3>Skeleton Version: 1.0</h3>
+            <p>
+                Currently this assignment uses a ThreadPoolExecutor downloading
+                policy.
+            </p>
+            ]]>
+        </item>
+    </string-array>
+</resources>
