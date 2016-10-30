@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Grid view item state colors -->
+    <color name="grid_item_pressed">@color/colorAccent</color>
+    <color name="grid_item_selected_color_filter">#50FF4081</color>
+
+    <!-- Background color for input edit view that matches snackbar -->
+    <color name="input_panel_view_background_color">#323232</color>
+
+    <!-- Progress bar colors -->
+    <color name="progress_start">#FF0000</color>
+    <color name="progress_mid">#0000FF</color>
+    <color name="progress_end">#00FF00</color>
+
+</resources>

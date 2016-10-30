@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- A set of valid default URLs that can be used to test assignments. -->
+    <string-array name="default_image_urls">
+        <item>http://www.hireworks.tv/wp-content/gallery/bout_us/gameofthrones.jpg</item>
+        <item>http://colleges.usnews.rankingsandreviews.com/img/college-photo_313._445x280-zmm.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/0/09/DataTNG.jpg</item>
+        <item>http://www.dre.vanderbilt.edu/~schmidt/gifs/dougs-xsmall.jpg</item>
+        <item>http://2.bp.blogspot.com/-c2U3HUQZVy8/UV7KI2bodLI/AAAAAAAAA4g/DJEEmv-FmNY/s1600/galaxy_universe-normal.jpg</item>
+        <item>http://acidcow.com/pics/20110920/famous_actors_who_got_hit_with_the_ugly_stick_19.jpg</item>
+    </string-array>
+
+    <string-array name="default_sound_urls">
+        <item>http://www.dre.vanderbilt.edu/~schmidt/Eruption.mp3</item>
+        <item>http://www.dre.vanderbilt.edu/~schmidt/OnFire.mp3</item>
+        <item>http://www.dre.vanderbilt.edu/~schmidt/SmokeOnTheWater.mp3</item>
+        <item>http://www.dre.vanderbilt.edu/~schmidt/symphony9_beethoven.mp3</item>
+        <item>http://www.dre.vanderbilt.edu/~schmidt/ForAllWeKnow.mp3</item>
+    </string-array>
+</resources>

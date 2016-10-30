@@ -6,3 +6,6 @@ Assignments for Android App Components - Intents, Activities, and Broadcast Rece
 
 ## Week 3
 ### Assignment 2: [HaMeRDownloader](https://github.com/akueisara/androidapps/tree/master/week%203)
+
+## Week 4
+### Assignment 3: [AsyncTaskDownloader](https://github.com/akueisara/androidapps/tree/master/week%204)
